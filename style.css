@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+.bod {
+    display:flex;
+    background-color: hsl(0, 0%, 8%);        
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.gray-card {
+    width: 386px;
+    height: 506px;
+    background-color: hsl(0, 0%, 12%);
+    padding: 16px;
+    border-radius: 15px;
+    margin: 48px auto;
+    align-items: center;
+    justify-content: center;
+}
+.avatar {
+    display: flex;
+    align-items: center;
+    margin-left: 120px;
+    width: 100px;
+}
+.avatar img {
+    border-radius: 100px;
+    width: 100px;
+    height: auto;
+}
+.text {
+    text-align: center;
+}
+
+.full-name {
+    color: white;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+.location {
+    color:hsl(75, 94%, 57%);
+    margin-top: 5px;
+}
+.bio {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.buttons {
+    width: 200px;
+    height: 100px;
+    display: flexbox;
+    margin-left: 25px;
+
+}
+.btn1 {
+    background-color: hsl(0 0% 20%);
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    transition: ease-out .2s;
+
+}
+.btn1Name {
+    color: white;
+}
+.btn1:hover {
+    cursor:pointer;
+    box-shadow: inset 300px 0 0 0;
+    color:hsl(64, 23%, 37%);
+}
+.btn2 {
+    background-color: hsl(0 0% 20%);
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    transition: ease-out .2s;
+}
+.btn2Name {
+    color: white;
+}
+.btn2:hover {
+    cursor:pointer;
+    box-shadow: inset 300px 0 0 0;
+    color:hsl(64, 23%, 37%);
+}
+.btn3 {
+    background-color: hsl(0 0% 20%);
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    transition: ease-out .2s;
+}
+
+.btn3Name {
+    color: white;
+}
+.btn3:hover {
+    cursor:pointer;
+    box-shadow: inset 300px 0 0 0;
+    color:hsl(64, 23%, 37%);
+}
+.btn4 {
+    background-color: hsl(0 0% 20%);
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    transition: ease-out .2s;
+}
+
+.btn4Name {
+    color: white;
+}
+.btn4:hover {
+    cursor:pointer;
+    box-shadow: inset 300px 0 0 0;
+    color:hsl(64, 23%, 37%);
+}
+.btn5 {
+    background-color: hsl(0 0% 20%);
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    transition: ease-out .2s;
+}
+
+.btn5Name {
+    color: white;
+}
+.btn5:hover {
+    cursor:pointer;
+    box-shadow: inset 300px 0 0 0;
+    color:hsl(64, 23%, 37%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
