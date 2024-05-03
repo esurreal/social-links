@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/esurreal/social-links)
-- Live Site URL:(https://esurreal.github.io)
+- Live Site URL:[esurreal.github.io](https://esurreal.github.io/social-links/))
 
 ## My process
 
